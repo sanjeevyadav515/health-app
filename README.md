@@ -5,4 +5,4 @@ To Start build via Expo-CLI, us command :
 
 #Screenshots : 
 
-![alt text](./assets/ss/image.jpg)
+![alt text](./assets/ss/image.jpeg)
