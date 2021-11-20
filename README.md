@@ -3,7 +3,7 @@
 To Start build via Expo-CLI, us command : 
 > npm start
 
-#Screenshots : 
+# Screenshots : 
 
 ![alt text](./assets/ss/ss1.jpeg)
 ![alt text](./assets/ss/ss2.jpeg)
